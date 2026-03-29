@@ -1,0 +1,2 @@
+.next/types/validator.ts(123,39): error TS2307: Cannot find module '../../app/page.js' or its corresponding type declarations.
+app/(dashboard)/chat/page.tsx(247,18): error TS2304: Cannot find name 'AlertCircle'.
