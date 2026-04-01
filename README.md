@@ -324,12 +324,13 @@ tail -f logs/app.log
 
 ## 👥 About
 
-**DocuMind AI** - Built by AI researchers and enterprise software experts.
+**DocuMind AI** is an enterprise AI system I designed and built to enable intelligent interaction with documents at scale.
 
-📍 Headquartered in Dubai, UAE  
-🌍 Serving clients across Middle East & globally
+📍 Focused on UAE and Middle East use cases  
+🌍 Built with a global, enterprise-ready perspective
 
-**Mission**: Democratize enterprise document intelligence with AI that's accessible, accurate, and affordable.
+**Mission**: To simplify and enhance document intelligence through practical, scalable AI solutions.
+
 
 ---
 
