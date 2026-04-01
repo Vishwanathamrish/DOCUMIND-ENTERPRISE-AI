@@ -254,7 +254,7 @@ tail -f logs/app.log
 
 ### Getting Help
 - 📖 **Product Docs**: [PRODUCT_DOCUMENTATION.md](PRODUCT_DOCUMENTATION.md)
-- 📧 **Email**: support@documind.ai
+- 📧 **Email**: vishwanathamrish@gmail.com
 - 🐛 **Issues**: GitHub Issues
 
 ### Resources
