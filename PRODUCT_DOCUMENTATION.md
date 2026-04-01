@@ -414,7 +414,7 @@ See README.md for detailed setup instructions.
 - User guide: `/help`
 
 ### Support Channels
-- Email: support@documind.ai
+- Email: vishwanathamrish@gmail.com
 - Discord: Community server
 - GitHub: Issues & Discussions
 
