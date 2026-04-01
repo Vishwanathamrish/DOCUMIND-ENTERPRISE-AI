@@ -428,7 +428,10 @@ See README.md for detailed setup instructions.
 
 ## 🏢 About DocuMind
 
-DocuMind AI is built by a team of AI researchers and enterprise software veterans. Headquartered in Dubai, UAE, we serve clients across the Middle East and globally.
+DocuMind AI is an enterprise AI system I designed and built to enable intelligent interaction with documents.
+
+📍 Developed with a focus on UAE and Middle East use cases
+🌍 Built with a scalable, global enterprise perspective
 
 **Mission**: Democratize enterprise document intelligence with AI that's accessible, accurate, and affordable.
 
