@@ -92,6 +92,12 @@ python init_users_table.py
 python create_admin.py
 ```
 
+4. **Manage Users** (Optional)
+```bash
+python manage_users.py
+```
+Interactive user management menu to view, edit, delete users and reset passwords.
+
 4. **Start Servers**
 ```bash
 # Terminal 1 - Backend
@@ -189,6 +195,29 @@ docker-compose up -d
 # Access
 http://localhost:3000
 ```
+
+---
+
+## 🛠️ User Management
+
+### Managing Users
+Use the interactive user management tool:
+
+```bash
+python manage_users.py
+```
+
+**Available Operations:**
+- 👥 **View All Users** - Display all users with roles and creation dates
+- ✏️ **Edit User Role** - Change user roles (admin/analyst/viewer)
+- 🔑 **Reset Password** - Reset user passwords
+- ❌ **Delete User** - Permanently delete a user account
+- 📊 **User Statistics** - View role distribution and user metrics
+
+**User Roles:**
+- **admin** - Full system access
+- **analyst** - Standard user permissions
+- **viewer** - Read-only access
 
 ---
 
